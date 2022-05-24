@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Notes App GitHub Solution](https://github.com/MaryAngelique/notes-app)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
