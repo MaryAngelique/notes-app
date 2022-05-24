@@ -30,7 +30,8 @@ body {
 }
 
 .note {
-    background-color: #000;
+    background-color: #292826;
+    color: #f7f7f9;
     box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.1);
     margin: 30px 20px;
     height: 400px;
