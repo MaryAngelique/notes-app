@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Notes App GitHub Solution](https://github.com/MaryAngelique/notes-app)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Notes App Website](https://notes-app-cappa.vercel.app/)
 
 ## My process
 
